@@ -16,9 +16,7 @@ A 3rd-year undergraduate engineering student at MSRIT, driven by curiosity and a
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
-
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks)
