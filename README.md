@@ -1,6 +1,11 @@
-                                                     #Hi there 👋
 
-                                                   ##I'm Ishani
+
+### Hi there 👋
+
+<div align="center">
+  <h1> I'm Ishani</h1>
+</div>
+
 
 A 3rd-year undergraduate engineering student at MSRIT, driven by curiosity and a passion for innovation.
 
