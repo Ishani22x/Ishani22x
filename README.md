@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## Hi 👋, I'm Ishani
+## Hi , I'm Ishani
 
 A 3rd-year undergraduate engineering student at MSRIT, driven by curiosity and a passion for innovation.
 
