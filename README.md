@@ -1,14 +1,12 @@
 
 
 <div align="center">
-  <h1>Hi there 👋</h1>
-
-  <h1> I'm Ishani</h1>
+  <h1>Hi there 👋,I'm Ishani</h1>
 </div>
 
-
-
-A 3rd-year undergraduate engineering student at MSRIT, driven by curiosity and a passion for innovation.
+<div align="center">
+  A 3rd-year undergraduate engineering student at MSRIT, driven by curiosity and a passion for innovation.
+</div>
 
 ### 🌱 I’m currently deepening my knowledge in integrating Firebase with Flutter
 
