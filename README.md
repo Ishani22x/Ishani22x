@@ -4,6 +4,10 @@
 
 A 3rd-year undergraduate engineering student at MSRIT, driven by curiosity and a passion for innovation.
 
+### 🌱 I’m currently deepening my knowledge in integrating Firebase with Flutter
+
+### 💬 Ask me about app development and machine learning
+
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ishani22x)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ishani_22)
