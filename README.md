@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  A 3rd-year undergraduate engineering student at MSRIT, driven by curiosity and a passion for innovation.
+ <h4> A 3rd-year undergraduate engineering student at MSRIT, driven by curiosity and a passion for innovation.</h4>
 </div>
 
 ### 🌱 I’m currently deepening my knowledge in integrating Firebase with Flutter
