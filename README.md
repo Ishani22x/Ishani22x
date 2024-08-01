@@ -2,10 +2,10 @@
 
 <div align="center">
   <h1>Hi there 👋</h1>
-  <hr>
+
   <h1> I'm Ishani</h1>
 </div>
-<hr>
+
 
 
 A 3rd-year undergraduate engineering student at MSRIT, driven by curiosity and a passion for innovation.
