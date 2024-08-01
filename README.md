@@ -23,11 +23,10 @@ A 3rd-year undergraduate engineering student at MSRIT, driven by curiosity and a
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn)
 
-### Most Used Languages
+### Most Used :
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-FFA726?style=flat-square&logo=jupyter)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
-![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
 
