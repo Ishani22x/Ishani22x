@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
- <h4> A 3rd-year undergraduate engineering student at MSRIT, driven by curiosity and a passion for innovation.</h4>
+ <h4> A 4th-year undergraduate engineering student at MSRIT, driven by curiosity and a passion for innovation.</h4>
 </div>
 <hr>
 
